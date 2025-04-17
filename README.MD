@@ -66,4 +66,5 @@ https://sites.google.com/view/plataherpck/nobledez (Got Most Skins Here But Othe
 https://sites.google.com/view/plataherpck/nobledez (1.14 Texture Pack)
 
 https://www.youtube.com/@NobleDezGaming (Video Tutorials)
+
 https://github.com/Toxicisgaming/ (Digital Manual)
