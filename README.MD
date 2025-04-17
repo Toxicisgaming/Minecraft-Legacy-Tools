@@ -51,7 +51,8 @@ Digital manual about some tools
 A few video tutorials
 
 ## Getting Started
-Just download the ISO file and open or extract it.
+Download the ISO file here: https://mega.nz/file/nEZHETRJ#pI8ZQyvf_9EO1SUz_fM_s44ZA8ZF3luoD5AiTvqiGHQ
+Or download selective files from the repository
 
 ## Credits
 
