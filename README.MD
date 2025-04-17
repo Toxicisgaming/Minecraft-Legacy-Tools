@@ -6,15 +6,25 @@
 This is a ISO packed full of legacy edition Tools, Mods and textures that i scoured the internet to preserve all the history and so others can use these tools as most links to these tools are either dead or hard to find.
 ## Software (Windows Only)
 Binkman
+
 FUI editor (DEV)
+
 Fui Editor
+
 Legacy Editor 1.0.0
+
 MCC Client Modder
+
 MCC Tool Chest
+
 Minecraft LCE Documentation
+
 Minecraft WiiU Edition Client
+
 PCK Studio
+
 Wii U Map Manager
+
 ## Mods
 DreamCraft 2.0
 Rocketship Mod
