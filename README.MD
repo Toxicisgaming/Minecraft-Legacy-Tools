@@ -52,7 +52,16 @@ A few video tutorials
 
 ## Getting Started
 Download the ISO file here: https://mega.nz/file/nEZHETRJ#pI8ZQyvf_9EO1SUz_fM_s44ZA8ZF3luoD5AiTvqiGHQ
-Or download selective files from the repository
+It contains all the files
+
+Or download selective files from the repository 
+
+Not all of the software is in the repository because of github's upload size limit
+Missing software from the repository:
+
+Legacy Editor 1.0.0
+
+MCC Client Modder
 
 ## Credits
 
